@@ -1,2 +1,3 @@
 # hello-world
-A short description
+
+Hi, I'm Luis and I'm currently learning how to deal with this.
